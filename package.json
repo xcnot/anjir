@@ -1,0 +1,16 @@
+
+{
+  "name": "js-confuser-project",
+  "version": "1.0.0",
+  "description": "A project to obfuscate JavaScript code using JS-Confuser and Node.js built-in fs module",
+  "main": "obfuscate.js",
+  "scripts": {
+    "start": "node obfuscate.js"
+  },
+  "keywords": ["obfuscation", "js-confuser", "filesystem"],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "js-confuser": "^1.0.0"
+  }
+}
